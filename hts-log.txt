@@ -1,0 +1,109 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 03 Jul 2022 17:44:28 at https://tetherhub.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://tetherhub.in/ -O1 "C:\Users\dimit\Desktop\grb\adsadadasdaad" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:45:24	Error: 	"Not Found" (404) at link https://tetherhub.in/webfonts/fa-brands-400.eot (from https://tetherhub.in/add/all.min.css)
+17:45:24	Error: 	"Not Found" (404) at link https://tetherhub.in/webfonts/fa-brands-400.eot? (from https://tetherhub.in/add/all.min.css)
+17:45:24	Error: 	"Not Found" (404) at link https://tetherhub.in/webfonts/fa-brands-400.woff2 (from https://tetherhub.in/add/all.min.css)
+17:45:24	Error: 	"Not Found" (404) at link https://tetherhub.in/webfonts/fa-brands-400.woff (from https://tetherhub.in/add/all.min.css)
+17:45:24	Error: 	"Not Found" (404) at link https://tetherhub.in/webfonts/fa-brands-400.ttf (from https://tetherhub.in/add/all.min.css)
+17:45:24	Error: 	"Not Found" (404) at link https://tetherhub.in/webfonts/fa-brands-400.svg (from https://tetherhub.in/add/all.min.css)
+17:45:24	Error: 	"Not Found" (404) at link https://tetherhub.in/webfonts/fa-regular-400.eot (from https://tetherhub.in/add/all.min.css)
+17:45:24	Error: 	"Not Found" (404) at link https://tetherhub.in/webfonts/fa-regular-400.eot? (from https://tetherhub.in/add/all.min.css)
+17:45:24	Error: 	"Not Found" (404) at link https://tetherhub.in/webfonts/fa-regular-400.woff2 (from https://tetherhub.in/add/all.min.css)
+17:45:24	Error: 	"Not Found" (404) at link https://tetherhub.in/webfonts/fa-regular-400.woff (from https://tetherhub.in/add/all.min.css)
+17:45:24	Error: 	"Not Found" (404) at link https://tetherhub.in/webfonts/fa-regular-400.ttf (from https://tetherhub.in/add/all.min.css)
+17:45:24	Error: 	"Not Found" (404) at link https://tetherhub.in/webfonts/fa-regular-400.svg (from https://tetherhub.in/add/all.min.css)
+17:45:24	Error: 	"Not Found" (404) at link https://tetherhub.in/webfonts/fa-solid-900.eot (from https://tetherhub.in/add/all.min.css)
+17:45:24	Error: 	"Not Found" (404) at link https://tetherhub.in/webfonts/fa-solid-900.eot? (from https://tetherhub.in/add/all.min.css)
+17:45:24	Error: 	"Not Found" (404) at link https://tetherhub.in/webfonts/fa-solid-900.woff2 (from https://tetherhub.in/add/all.min.css)
+17:45:24	Error: 	"Not Found" (404) at link https://tetherhub.in/webfonts/fa-solid-900.woff (from https://tetherhub.in/add/all.min.css)
+17:45:24	Error: 	"Not Found" (404) at link https://tetherhub.in/webfonts/fa-solid-900.ttf (from https://tetherhub.in/add/all.min.css)
+17:45:24	Error: 	"Not Found" (404) at link https://tetherhub.in/webfonts/fa-solid-900.svg (from https://tetherhub.in/add/all.min.css)
+17:45:24	Error: 	"Not Found" (404) at link https://tetherhub.in/fonts/la-brands-400.eot (from https://tetherhub.in/add/line-awesome.min.css)
+17:45:24	Error: 	"Not Found" (404) at link https://tetherhub.in/fonts/la-brands-400.eot? (from https://tetherhub.in/add/line-awesome.min.css)
+17:45:24	Error: 	"Not Found" (404) at link https://tetherhub.in/fonts/la-brands-400.woff2 (from https://tetherhub.in/add/line-awesome.min.css)
+17:45:24	Error: 	"Not Found" (404) at link https://tetherhub.in/fonts/la-brands-400.woff (from https://tetherhub.in/add/line-awesome.min.css)
+17:45:24	Error: 	"Not Found" (404) at link https://tetherhub.in/fonts/la-brands-400.ttf (from https://tetherhub.in/add/line-awesome.min.css)
+17:45:24	Error: 	"Not Found" (404) at link https://tetherhub.in/fonts/la-brands-400.svg (from https://tetherhub.in/add/line-awesome.min.css)
+17:45:24	Error: 	"Not Found" (404) at link https://tetherhub.in/fonts/la-regular-400.eot (from https://tetherhub.in/add/line-awesome.min.css)
+17:45:24	Error: 	"Not Found" (404) at link https://tetherhub.in/fonts/la-regular-400.eot? (from https://tetherhub.in/add/line-awesome.min.css)
+17:45:24	Error: 	"Not Found" (404) at link https://tetherhub.in/fonts/la-regular-400.woff2 (from https://tetherhub.in/add/line-awesome.min.css)
+17:45:24	Error: 	"Not Found" (404) at link https://tetherhub.in/fonts/la-regular-400.woff (from https://tetherhub.in/add/line-awesome.min.css)
+17:45:24	Error: 	"Not Found" (404) at link https://tetherhub.in/fonts/la-regular-400.ttf (from https://tetherhub.in/add/line-awesome.min.css)
+17:45:24	Error: 	"Not Found" (404) at link https://tetherhub.in/fonts/la-regular-400.svg (from https://tetherhub.in/add/line-awesome.min.css)
+17:45:24	Error: 	"Not Found" (404) at link https://tetherhub.in/fonts/la-solid-900.eot (from https://tetherhub.in/add/line-awesome.min.css)
+17:45:24	Error: 	"Not Found" (404) at link https://tetherhub.in/fonts/la-solid-900.eot? (from https://tetherhub.in/add/line-awesome.min.css)
+17:45:24	Error: 	"Not Found" (404) at link https://tetherhub.in/fonts/la-solid-900.woff2 (from https://tetherhub.in/add/line-awesome.min.css)
+17:45:24	Error: 	"Not Found" (404) at link https://tetherhub.in/fonts/la-solid-900.woff (from https://tetherhub.in/add/line-awesome.min.css)
+17:45:24	Error: 	"Not Found" (404) at link https://tetherhub.in/fonts/la-solid-900.ttf (from https://tetherhub.in/add/line-awesome.min.css)
+17:45:24	Error: 	"Not Found" (404) at link https://tetherhub.in/fonts/la-solid-900.svg (from https://tetherhub.in/add/line-awesome.min.css)
+17:45:24	Error: 	"Not Found" (404) at link https://tetherhub.in/images/elements/right-arrow.png (from https://tetherhub.in/add/mainssl.css)
+17:45:24	Warning: 	File not parsed, looks like binary: https://tetherhub.in/assets/fonts/fa-brands-400.woff2
+17:45:25	Warning: 	File not parsed, looks like binary: https://tetherhub.in/assets/fonts/fa-regular-400.woff2
+17:45:25	Warning: 	File not parsed, looks like binary: https://tetherhub.in/assets/fonts/fa-solid-900.woff2
+17:45:26	Error: 	"Not Found" (404) at link https://tetherhub.in/assets/css/owl.video.play.png (from https://tetherhub.in/assets/css/vendorlin.bundle.css)
+17:45:26	Warning: 	File not parsed, looks like binary: https://tetherhub.in/assets/fonts/Roboto-Light.woff2
+17:45:26	Warning: 	File not parsed, looks like binary: https://tetherhub.in/assets/fonts/Roboto-Regular.woff2
+17:45:26	Warning: 	File not parsed, looks like binary: https://tetherhub.in/assets/fonts/Roboto-Medium.woff2
+17:45:26	Warning: 	File not parsed, looks like binary: https://tetherhub.in/assets/fonts/Roboto-Bold.woff2
+17:45:26	Warning: 	File not parsed, looks like binary: https://tetherhub.in/assets/fonts/Quicksand-Light.woff2
+17:45:26	Warning: 	File not parsed, looks like binary: https://tetherhub.in/assets/fonts/Quicksand-Medium.woff2
+17:45:26	Warning: 	File not parsed, looks like binary: https://tetherhub.in/assets/fonts/Quicksand-Bold.woff2
+17:45:26	Error: 	"Not Found" (404) at link https://tetherhub.in/assets/images/mask-a-dark.png (from https://tetherhub.in/assets/css/stya.css)
+17:45:26	Error: 	"Not Found" (404) at link https://tetherhub.in/assets/images/mask-line.svg (from https://tetherhub.in/assets/css/stya.css)
+17:45:26	Error: 	"Not Found" (404) at link https://tetherhub.in/assets/images/mask-line.png (from https://tetherhub.in/assets/css/stya.css)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/themify.eot (from https://tetherhub.in/assets2/css/vendor.bundle.css?ver=20220116140)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/themify.eot? (from https://tetherhub.in/assets2/css/vendor.bundle.css?ver=20220116140)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/themify.ttf (from https://tetherhub.in/assets2/css/vendor.bundle.css?ver=20220116140)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/themify.svg (from https://tetherhub.in/assets2/css/vendor.bundle.css?ver=20220116140)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/fa-brands-400.eot (from https://tetherhub.in/assets2/css/vendor.bundle.css?ver=20220116140)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/fa-brands-400.eot? (from https://tetherhub.in/assets2/css/vendor.bundle.css?ver=20220116140)
+17:45:38	Warning: 	File not parsed, looks like binary: https://tetherhub.in/assets2/fonts/fa-brands-400.woff2
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/fa-brands-400.woff (from https://tetherhub.in/assets2/css/vendor.bundle.css?ver=20220116140)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/fa-brands-400.ttf (from https://tetherhub.in/assets2/css/vendor.bundle.css?ver=20220116140)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/fa-brands-400.svg (from https://tetherhub.in/assets2/css/vendor.bundle.css?ver=20220116140)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/fa-regular-400.eot (from https://tetherhub.in/assets2/css/vendor.bundle.css?ver=20220116140)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/fa-regular-400.eot? (from https://tetherhub.in/assets2/css/vendor.bundle.css?ver=20220116140)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/fa-regular-400.woff2 (from https://tetherhub.in/assets2/css/vendor.bundle.css?ver=20220116140)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/fa-regular-400.woff (from https://tetherhub.in/assets2/css/vendor.bundle.css?ver=20220116140)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/fa-regular-400.ttf (from https://tetherhub.in/assets2/css/vendor.bundle.css?ver=20220116140)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/fa-regular-400.svg (from https://tetherhub.in/assets2/css/vendor.bundle.css?ver=20220116140)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/fa-solid-900.eot (from https://tetherhub.in/assets2/css/vendor.bundle.css?ver=20220116140)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/fa-solid-900.eot? (from https://tetherhub.in/assets2/css/vendor.bundle.css?ver=20220116140)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/fa-solid-900.woff2 (from https://tetherhub.in/assets2/css/vendor.bundle.css?ver=20220116140)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/fa-solid-900.woff (from https://tetherhub.in/assets2/css/vendor.bundle.css?ver=20220116140)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/fa-solid-900.ttf (from https://tetherhub.in/assets2/css/vendor.bundle.css?ver=20220116140)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/fa-solid-900.svg (from https://tetherhub.in/assets2/css/vendor.bundle.css?ver=20220116140)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/ikon.eot (from https://tetherhub.in/assets2/css/vendor.bundle.css?ver=20220116140)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/ikon.ttf (from https://tetherhub.in/assets2/css/vendor.bundle.css?ver=20220116140)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/ikon.woff (from https://tetherhub.in/assets2/css/vendor.bundle.css?ver=20220116140)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/ikon.svg (from https://tetherhub.in/assets2/css/vendor.bundle.css?ver=20220116140)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/Roboto-Light.eot (from https://tetherhub.in/assets2/css/stylys.css)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/Roboto-Light.eot? (from https://tetherhub.in/assets2/css/stylys.css)
+17:45:38	Warning: 	File not parsed, looks like binary: https://tetherhub.in/assets2/fonts/Roboto-Light.woff2
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/Roboto-Light.woff (from https://tetherhub.in/assets2/css/stylys.css)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/Roboto-Light.ttf (from https://tetherhub.in/assets2/css/stylys.css)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/Roboto-Regular.eot (from https://tetherhub.in/assets2/css/stylys.css)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/Roboto-Regular.eot? (from https://tetherhub.in/assets2/css/stylys.css)
+17:45:38	Warning: 	File not parsed, looks like binary: https://tetherhub.in/assets2/fonts/Roboto-Regular.woff2
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/Roboto-Regular.woff (from https://tetherhub.in/assets2/css/stylys.css)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/Roboto-Regular.ttf (from https://tetherhub.in/assets2/css/stylys.css)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/Roboto-Medium.eot (from https://tetherhub.in/assets2/css/stylys.css)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/Roboto-Medium.eot? (from https://tetherhub.in/assets2/css/stylys.css)
+17:45:38	Warning: 	File not parsed, looks like binary: https://tetherhub.in/assets2/fonts/Roboto-Medium.woff2
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/Roboto-Medium.woff (from https://tetherhub.in/assets2/css/stylys.css)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/Roboto-Medium.ttf (from https://tetherhub.in/assets2/css/stylys.css)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/Roboto-Bold.eot (from https://tetherhub.in/assets2/css/stylys.css)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/Roboto-Bold.eot? (from https://tetherhub.in/assets2/css/stylys.css)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/Roboto-Bold.woff2 (from https://tetherhub.in/assets2/css/stylys.css)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/Roboto-Bold.woff (from https://tetherhub.in/assets2/css/stylys.css)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/fonts/Roboto-Bold.ttf (from https://tetherhub.in/assets2/css/stylys.css)
+17:45:38	Error: 	"Not Found" (404) at link https://tetherhub.in/assets2/images/ath-gfx.png (from https://tetherhub.in/assets2/css/stylys.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 10 seconds : 217 links scanned, 132 files written (13880906 bytes overall) [13669048 bytes received at 195272 bytes/sec], 403486 bytes transferred using HTTP compression in 7 files, ratio 28%, 19.7 requests per connection
+(84 errors, 14 warnings, 0 messages)
